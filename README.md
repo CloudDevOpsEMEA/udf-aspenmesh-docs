@@ -4,7 +4,7 @@
 
 This repository contains the documentation on the Aspen Mesh Blueprint on the F5 UDF (Universal Demo Framework) platform.
 
-Location of the Blueprint [here](https://udf.f5.com/d/70e2960b-a8f3-47b9-9628-7dcf8c2db442).
+Location of the Blueprint [here](https://udf.f5.com/b/7bce8f87-6b97-46b4-a2f2-d398acb4e6fa).
 
 ![AWS Demo Setup Topology](./imgs/udf-blueprint.png)
 <br />
