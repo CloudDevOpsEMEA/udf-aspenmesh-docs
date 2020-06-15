@@ -61,7 +61,11 @@ Because we use the Istio Ingress Controller exosed as service type nodeport, to 
 
 OpenEBS is used to provide dynamic persistent volumes, needed by AspenMesh and the storage requirements of the demo application digibank (mongo) and online boutique (redis)
 
+## Improvements and change requests
+
+As there are many moving parts and the setup is quite big, there is a lot of room for improvments. In order to be able to track bugs and improvement requests, I have created the following trello kanban dashboard. Please use this to trakc your requests.
+
+https://trello.com/b/tWxiwNVd/udp-aspenmesh-demo
 
 
-
-
+All contributions in terms of advice, code changes (commits and pull requests) or feature requests is higly appreciated.
