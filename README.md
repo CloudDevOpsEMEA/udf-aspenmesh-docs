@@ -55,7 +55,7 @@ Nginx+ is used on the jumphost to give access to the cluster:
    - istio ingress gateway is exposed type nodeport (TCP/31390)
    - bookinfo, digibank and online boutique are accessible this way
 
-Because we use the Istio Ingress Controller exosed as service type nodeport, to expose multiple application, the HTTP host header is used to route traffic to the correct application inside the cluster. In order for this to work correctly, a bind9 DNS server has been installed on the jumphost.
+Because we use the Istio Ingress Controller exposed as service type **nodeport**, to expose multiple application, the HTTP host header is used/necessary to route traffic to the correct application inside the cluster. In order for this to work correctly, a bind9 DNS server has been installed on the jumphost. A browser will not add a host header in case DNS resolving is done throughout a local */etc/hosts* file.
 
 ### Persistency
 
