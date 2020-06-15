@@ -63,7 +63,7 @@ OpenEBS is used to provide dynamic persistent volumes, needed by AspenMesh and t
 
 ## Improvements and change requests
 
-As there are many moving parts and the setup is quite big, there is a lot of room for improvments. In order to be able to track bugs and improvement requests, I have created the following trello kanban dashboard. Please use this to trakc your requests.
+As there are many moving parts and the setup is quite big, there is a lot of room for improvements. In order to be able to track bugs and improvement requests, the following trello kanban dashboard has been created. Please use this to track your requests.
 
 https://trello.com/b/tWxiwNVd/udp-aspenmesh-demo
 
